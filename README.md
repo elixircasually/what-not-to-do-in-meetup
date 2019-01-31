@@ -7,7 +7,7 @@ And since they are experiments, they can either be successful or failure.
 Here we talk about our experiments that have bad result. But please bare in mind
 that the result might be different depending on context, so use it with care.
 
-If you want to know about our mistakes, check out [what-to-do-in-meetup](https://github.com/elixircasually/what-to-do-in-meetup)
+If you want to know about our success stories, check out [what-to-do-in-meetup](https://github.com/elixircasually/what-to-do-in-meetup)
 
 ---
 
